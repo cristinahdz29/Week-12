@@ -1,0 +1,20 @@
+.display-div {
+    background-color: #64D838;
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 2%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    
+}
+
+button {
+    background-color: #929292;
+    color: white;
+    border: none;
+    height: 40px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
